@@ -38,7 +38,7 @@ make logs
 
 ### Stop
 ```zsh
-maek down
+make down
 ```
 
 ## Pong - How to play
